@@ -1,0 +1,5 @@
+
+*.pyc
+*.pyc
+flightServices/__pycache__/settings.cpython-38.pyc
+*.pyc
